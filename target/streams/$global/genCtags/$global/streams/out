@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0mGrabbing all dependency source jars. This may take a while if you don't have them in your Ivy cache[0m
+[0m[[0minfo[0m] [0mClearing /home/fourbroad/bigdata/zxtx_bigdata/target/sbt-ctags-dep-srcs[0m
+[0m[[0minfo[0m] [0mUnzipping dependency source jars into /home/fourbroad/bigdata/zxtx_bigdata/target/sbt-ctags-dep-srcs[0m
+[0m[[0mdebug[0m] [0mexisting ctags src dirs: List(/home/fourbroad/bigdata/zxtx_bigdata/src/main/scala, /home/fourbroad/bigdata/zxtx_bigdata/target/sbt-ctags-dep-srcs)[0m
+[0m[[0minfo[0m] [0mGenerating tag file[0m
+[0m[[0minfo[0m] [0mrunning this command to generate ctags: ctags --exclude=log --languages=scala,java -f .tags  -R /home/fourbroad/bigdata/zxtx_bigdata/src/main/scala /home/fourbroad/bigdata/zxtx_bigdata/target/sbt-ctags-dep-srcs[0m

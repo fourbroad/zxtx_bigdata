@@ -1,0 +1,7 @@
+exit
+compile
+run
+run zxtx.Zxtx Policies 5
+run
+run 1
+run
