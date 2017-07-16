@@ -56,6 +56,6 @@ object Zxtx extends App {
     }
   }
 
- ssc.start()
+  ssc.start()
   ssc.awaitTermination()
 }
